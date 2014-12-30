@@ -1,0 +1,4 @@
+This is a toy feed-forward neural network with basic backpropagation and
+momentum.
+
+I made it to learn backpropagation and to understand neural networks better.
