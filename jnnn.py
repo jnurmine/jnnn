@@ -60,7 +60,7 @@ class Layer:
             scaler=1.0):
         """Create a connection structure with random weights.
 
-        If act is None, then identity function is used.
+        If act is None, then everything fails horribly.
 
         Weight layout (ex. 3-->2 layer, src=3, target=2): [[0, 1, 2], [0, 1, 2]]
         Indexed with [target][src].
